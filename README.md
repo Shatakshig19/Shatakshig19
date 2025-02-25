@@ -18,9 +18,9 @@ I am a B.Tech student at **Indian Institute of Technology, Jodhpur**. I am passi
   - C/C++
   - Python
  
-- 🌱 I am committed to continuous learning and improvement, always exploring the latest technologies in web development.
+-  I am committed to continuous learning and improvement, always exploring the latest technologies in web development.
 
-- 🚀 I love building scalable and efficient web applications, and contributing to open-source projects.
+-  I love building scalable and efficient web applications, and contributing to open-source projects.
 
 ---
 
@@ -88,11 +88,6 @@ Feel free to explore my repositories and connect with me for collaborations or d
 
 <hr/>
 
-## Feed:
-
-
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
-<br/>
 
 <hr/>
 
